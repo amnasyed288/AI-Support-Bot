@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langgraph
+chromadb
+sentence-transformers
+tavily-python
+gradio
+langchain-huggingface
+ipykernel
+beautifulsoup4
