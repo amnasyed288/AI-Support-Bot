@@ -10,3 +10,4 @@ gradio
 langchain-huggingface
 ipykernel
 beautifulsoup4
+streamlit
